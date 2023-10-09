@@ -40,7 +40,7 @@ function PizzaForm() {
           </div>
         </div>
         <div className="col">
-          <button type="submit" className="btn btn-success">
+          <button type="submit" className="btn btn-success" >
             Submit
           </button>
         </div>
